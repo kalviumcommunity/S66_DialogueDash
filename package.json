@@ -1,0 +1,19 @@
+{
+  "name": "s66_dialoguedash",
+  "version": "1.0.0",
+  "description": "**A Web-Based Bollywood Movie Dialogue Quiz**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S66_DialogueDash.git"
+  },
+  "author": "Nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S66_DialogueDash/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/S66_DialogueDash#readme"
+}
